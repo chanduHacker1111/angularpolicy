@@ -1,0 +1,46 @@
+
+::ng-deep{
+    .pi-arrow-left{
+        color:white !important;
+    } 
+    .pi-arrow-right{
+        color:white !important;
+    } 
+    .p-button {
+        background: black !important;
+        border: none;
+        position: absolute;
+        left: 256px;
+        top: 450px;
+        height: 44px;
+        width: 24px;
+        border-radius: 0px 150px 150px 0px;
+    }
+    .pi-times{
+        color: white;
+    }
+    .ng-trigger{
+        z-index: -1;
+    }
+    .p-sidebar-left {
+        top: 0;
+        left: 0;
+        width: 16rem !important;
+        height: 100%;
+    }
+    .ng-trigge{
+        z-index: 0 !important;
+    }
+    .p-component-overlay {
+        background:white !important;
+        transition-duration: 0.2s;
+    }
+    .pi-arrow-left {
+        color: white !important;
+        font-size: 10px;
+    }
+    .pi-arrow-right {
+        color: white !important;
+        font-size: 10px;
+    }
+}
